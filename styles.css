@@ -68,3 +68,7 @@
     background-color: #000000;
     margin-bottom: 2rem;
 }
+#searchoption{
+    width: 500px;
+    display: inline-block;
+}
