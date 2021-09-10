@@ -1,4 +1,4 @@
-let searchBar = document.querySelector("#searchoption");
+let searchBar = document.getElementById("searchoption");
 let searchBtn = document.getElementById("searchbtn");
 
 
